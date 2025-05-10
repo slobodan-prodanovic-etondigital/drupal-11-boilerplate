@@ -23,6 +23,8 @@
         "drupal/eck": "^2.1@beta",
         "drupal/geolocation": "^3.14",
         "drupal/gin": "^4.0",
+        "drupal/pathauto": "^1.13",
+        "drupal/symfony_mailer": "^1.5",
         "drupal/webform": "^6.3@beta",
         "drupal/webform_gmap_field": "^1.1",
         "drush/drush": "^13.2"
