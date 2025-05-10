@@ -18,6 +18,7 @@ Install my-project with npm
 
  ```bash
 fin db import .dokcksal/misc/init_db.sql
+fin composer install
 ```
 
 Website link: http://drupal11.docksal.site/
